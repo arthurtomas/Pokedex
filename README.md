@@ -1,2 +1,2 @@
 # Pokedex
-###Pokedex criado com o Bootcamp de Angular da DIO
+### Pokedex criado com o Bootcamp de Angular da DIO
